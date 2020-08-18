@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "332426422365",
+    "firebase_url": "https://budgetforfriends.firebaseio.com",
+    "project_id": "budgetforfriends",
+    "storage_bucket": "budgetforfriends.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332426422365:android:cc8097ea83608a532dc5b4",
+        "android_client_info": {
+          "package_name": "com.vladadev.commonbudgetforfriends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332426422365-9otvs29falt2086d0gj2qbs7590c59u3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANVZ3AVIXBzcfA0I8EfPCWmHzkq7Qd5C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332426422365-9otvs29falt2086d0gj2qbs7590c59u3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
